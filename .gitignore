@@ -1,0 +1,4 @@
+/node_modules
+.babelrc
+.script-compilated.js
+package-lock.json
